@@ -122,7 +122,7 @@ The regression assumptions were evaluated using:
 
 ### Cook's Distance
 
-![Cook](cooks_distance.png)
+![Cook](cook's_distance.png)
 
 ---
 
