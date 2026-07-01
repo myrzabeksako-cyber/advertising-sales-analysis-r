@@ -82,11 +82,11 @@ The project includes:
 
 ### Distribution of Variables
 
-![Distribution](figures/distribution_of_variables.png)
+![Distribution](distribution_of_variables.png)
 
 ### Pairwise Relationships
 
-![Pairs](figures/ggpairs.png)
+![Pairs](ggpairs.png)
 
 ---
 
@@ -118,11 +118,11 @@ The regression assumptions were evaluated using:
 
 ### Regression Diagnostics
 
-![Diagnostics](figures/four_plots.png)
+![Diagnostics](four_plots.png)
 
 ### Cook's Distance
 
-![Cook](figures/cooks_distance.png)
+![Cook](cooks_distance.png)
 
 ---
 
@@ -135,7 +135,7 @@ The final model was evaluated using:
 
 ### Actual vs Predicted Sales
 
-![Prediction](figures/actual_vs_predicted_sales.png)
+![Prediction](actual_vs_predicted_sales.png)
 
 ---
 
