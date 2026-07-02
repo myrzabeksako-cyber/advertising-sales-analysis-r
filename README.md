@@ -1,4 +1,4 @@
-# 📈 Advertising Sales Analysis in R
+# Advertising Sales Analysis in R
 
 A statistical data analysis and sales prediction project implemented in **R**.
 
